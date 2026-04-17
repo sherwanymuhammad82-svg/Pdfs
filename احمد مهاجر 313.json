@@ -1,0 +1,662 @@
+{
+    "project_owner": "احمد مهاجر",
+    "total_books": 82,
+    "books": [
+        {
+            "id": 1,
+            "title": "المهدي في القران -",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/المهدي%20في%20القران%20-%20%20.pdf",
+            "file_name": "المهدي في القران -  .pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 2,
+            "title": "هل المهدي يعرف نفسه",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/هل%20المهدي%20يعرف%20نفسه.pdf",
+            "file_name": "هل المهدي يعرف نفسه.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 3,
+            "title": "احادیث_الفتن_ودورنا_مع_التعامل_معھا_2",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/احادیث_الفتن_ودورنا_مع_التعامل_معھا_2.pdf",
+            "file_name": "احادیث_الفتن_ودورنا_مع_التعامل_معھا_2.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 4,
+            "title": "المهدي_المنتظر_صفاته_الشخصية_والزمانية_والمكانية_بحث_قيم_لأحد",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/المهدي_المنتظر_صفاته_الشخصية_والزمانية_والمكانية_بحث_قيم_لأحد.pdf",
+            "file_name": "المهدي_المنتظر_صفاته_الشخصية_والزمانية_والمكانية_بحث_قيم_لأحد.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 5,
+            "title": "احادیث_الفتن_ودورنا_مع_التعامل_معھا",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/احادیث_الفتن_ودورنا_مع_التعامل_معھا.pdf",
+            "file_name": "احادیث_الفتن_ودورنا_مع_التعامل_معھا.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 6,
+            "title": "الاهتمام_النبوية_في_الاحداث_المستقبلية_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الاهتمام_النبوية_في_الاحداث_المستقبلية_1.pdf",
+            "file_name": "الاهتمام_النبوية_في_الاحداث_المستقبلية_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 7,
+            "title": "🕋🐪🕸 علمتني الهجرة 🕊🐪🎀",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/🕋🐪🕸%20علمتني%20الهجرة%20🕊🐪🎀.pdf",
+            "file_name": "🕋🐪🕸 علمتني الهجرة 🕊🐪🎀.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 8,
+            "title": "خواطر_مهدوية_للشيخ_خالد_أبو_الرجال",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/خواطر_مهدوية_للشيخ_خالد_أبو_الرجال.pdf",
+            "file_name": "خواطر_مهدوية_للشيخ_خالد_أبو_الرجال.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 9,
+            "title": "الرسول والمهدي",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الرسول%20والمهدي%20.pdf",
+            "file_name": "الرسول والمهدي .pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 10,
+            "title": "المجموعة_الثانية_15_مقالة_من_مقالات_أبي_داود_",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/المجموعة_الثانية_15_مقالة_من_مقالات_أبي_داود_.pdf",
+            "file_name": "المجموعة_الثانية_15_مقالة_من_مقالات_أبي_داود_.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 11,
+            "title": "التحقيق_المبـروم_في_شرح_حديث_ستصالحون_الروم_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/التحقيق_المبـروم_في_شرح_حديث_ستصالحون_الروم_1.pdf",
+            "file_name": "التحقيق_المبـروم_في_شرح_حديث_ستصالحون_الروم_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 12,
+            "title": "أخلاق وشمائل السيد حسن التهامي",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/أخلاق%20وشمائل%20السيد%20حسن%20التهامي.pdf",
+            "file_name": "أخلاق وشمائل السيد حسن التهامي.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 13,
+            "title": "منشورات كتاب المهدي وقرب الظهور",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/منشورات%20كتاب%20المهدي%20وقرب%20الظهور.pdf",
+            "file_name": "منشورات كتاب المهدي وقرب الظهور.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 14,
+            "title": "الأسئلة_الأربعين_في_مسألة_المهدي_الأمين_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الأسئلة_الأربعين_في_مسألة_المهدي_الأمين_1.pdf",
+            "file_name": "الأسئلة_الأربعين_في_مسألة_المهدي_الأمين_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 15,
+            "title": "إذا رأيتم الرايات السود -1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/إذا%20رأيتم%20الرايات%20السود%20-1.pdf",
+            "file_name": "إذا رأيتم الرايات السود -1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 16,
+            "title": "بني اسرائيل",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/بني%20اسرائيل.pdf",
+            "file_name": "بني اسرائيل.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 17,
+            "title": "تغیر_ات_الایام_وذکرھا_فی_الاحادیث_النبویۃ",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/تغیر_ات_الایام_وذکرھا_فی_الاحادیث_النبویۃ.pdf",
+            "file_name": "تغیر_ات_الایام_وذکرھا_فی_الاحادیث_النبویۃ.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 18,
+            "title": "احادیث_الفتن_ودورنا_مع_التعامل_معھا_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/احادیث_الفتن_ودورنا_مع_التعامل_معھا_1.pdf",
+            "file_name": "احادیث_الفتن_ودورنا_مع_التعامل_معھا_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 19,
+            "title": "فصل مشروع بيعة العلماء",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/فصل%20مشروع%20بيعة%20العلماء.pdf",
+            "file_name": "فصل مشروع بيعة العلماء.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 20,
+            "title": "انواع الجلطات",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/انواع%20الجلطات.pdf",
+            "file_name": "انواع الجلطات.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 21,
+            "title": "🔷بسم الله الرحمن الرحيم 🔷",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/🔷بسم%20الله%20الرحمن%20الرحيم%20🔷.pdf",
+            "file_name": "🔷بسم الله الرحمن الرحيم 🔷.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 22,
+            "title": "صفات الإمام المهدي",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/صفات%20الإمام%20المهدي%20.pdf",
+            "file_name": "صفات الإمام المهدي .pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 23,
+            "title": "منشورات المدني",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/منشورات%20المدني.pdf",
+            "file_name": "منشورات المدني.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 24,
+            "title": "نداء إستغاثة  المعدلة",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/نداء%20إستغاثة%20%20المعدلة.pdf",
+            "file_name": "نداء إستغاثة  المعدلة.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 25,
+            "title": "تفريغ_محاضرة_عن_الدجال_للسيد_الشريف_حسن_التهامي_",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/تفريغ_محاضرة_عن_الدجال_للسيد_الشريف_حسن_التهامي_.pdf",
+            "file_name": "تفريغ_محاضرة_عن_الدجال_للسيد_الشريف_حسن_التهامي_.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 26,
+            "title": "كتاب_مقالات_الشيخ_أبو_داؤد_الحسامي",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/كتاب_مقالات_الشيخ_أبو_داؤد_الحسامي.pdf",
+            "file_name": "كتاب_مقالات_الشيخ_أبو_داؤد_الحسامي.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 27,
+            "title": "المهدي من عترتي - الطبعة الثانية",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/المهدي%20من%20عترتي%20-%20الطبعة%20الثانية.pdf",
+            "file_name": "المهدي من عترتي - الطبعة الثانية.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 28,
+            "title": "الأربعون_حديثاً_في_المهدي_للحافظ_أبي_نعيم_الأصبهاني_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الأربعون_حديثاً_في_المهدي_للحافظ_أبي_نعيم_الأصبهاني_1.pdf",
+            "file_name": "الأربعون_حديثاً_في_المهدي_للحافظ_أبي_نعيم_الأصبهاني_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 29,
+            "title": "المحاضرة في شرح حديث المحاصرة",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/المحاضرة%20في%20شرح%20حديث%20المحاصرة.pdf",
+            "file_name": "المحاضرة في شرح حديث المحاصرة.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 30,
+            "title": "حكم_بيان_الاحادیث_الضعیفة_في_ابواب_الفتن_دراسة_تحقيقة_موجزة",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/حكم_بيان_الاحادیث_الضعیفة_في_ابواب_الفتن_دراسة_تحقيقة_موجزة.pdf",
+            "file_name": "حكم_بيان_الاحادیث_الضعیفة_في_ابواب_الفتن_دراسة_تحقيقة_موجزة.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 31,
+            "title": "مختصر كتاب المهدي وقرب الظهور",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/مختصر%20كتاب%20المهدي%20وقرب%20الظهور.pdf",
+            "file_name": "مختصر كتاب المهدي وقرب الظهور.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 32,
+            "title": "يصلحه الله في ليله",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/يصلحه%20الله%20في%20ليله.pdf",
+            "file_name": "يصلحه الله في ليله.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 33,
+            "title": "نور الحلبي (1+2+3+4+5+6)حبيبي",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/نور%20الحلبي%20(1+2+3+4+5+6)حبيبي.pdf",
+            "file_name": "نور الحلبي (1+2+3+4+5+6)حبيبي.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 34,
+            "title": "التعميم التربوي",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/التعميم%20التربوي.pdf",
+            "file_name": "التعميم التربوي.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 35,
+            "title": "ذخائر العقبى في ذوي القربى",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/ذخائر%20العقبى%20في%20ذوي%20القربى.pdf",
+            "file_name": "ذخائر العقبى في ذوي القربى.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 36,
+            "title": "بين_مقامي_الخوف_والرجاء_نسخة",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/بين_مقامي_الخوف_والرجاء_نسخة.pdf",
+            "file_name": "بين_مقامي_الخوف_والرجاء_نسخة.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 37,
+            "title": "صفات المهدي عليه السلام",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/صفات%20المهدي%20عليه%20السلام.pdf",
+            "file_name": "صفات المهدي عليه السلام.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 38,
+            "title": "المورينجا شجرة طيبة",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/المورينجا%20شجرة%20طيبة.pdf",
+            "file_name": "المورينجا شجرة طيبة.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 39,
+            "title": "ملحمة قرقيسيا",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/ملحمة%20قرقيسيا.pdf",
+            "file_name": "ملحمة قرقيسيا.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 40,
+            "title": "كتاب_الفتن_واشراط_الساعة_صحيح_مسلم",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/كتاب_الفتن_واشراط_الساعة_صحيح_مسلم.pdf",
+            "file_name": "كتاب_الفتن_واشراط_الساعة_صحيح_مسلم.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 41,
+            "title": "المهدي_وقرب_الظهور_الطبعة_الثالثة (1)",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/المهدي_وقرب_الظهور_الطبعة_الثالثة%20(1).pdf",
+            "file_name": "المهدي_وقرب_الظهور_الطبعة_الثالثة (1).pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 42,
+            "title": "حقيقة يأجوج ومأجوج",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/حقيقة%20يأجوج%20ومأجوج.pdf",
+            "file_name": "حقيقة يأجوج ومأجوج.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 43,
+            "title": "الأمة_المسلمة_وأدوارها_السياسة_في_ضوء_حديث_حذيفة_رضي_الله_عنه",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الأمة_المسلمة_وأدوارها_السياسة_في_ضوء_حديث_حذيفة_رضي_الله_عنه.pdf",
+            "file_name": "الأمة_المسلمة_وأدوارها_السياسة_في_ضوء_حديث_حذيفة_رضي_الله_عنه.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 44,
+            "title": "خطة عمل",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/خطة%20عمل.pdf",
+            "file_name": "خطة عمل.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 45,
+            "title": "الروم في عصر الظهور وبعده",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الروم%20في%20عصر%20الظهور%20وبعده.pdf",
+            "file_name": "الروم في عصر الظهور وبعده.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 46,
+            "title": "عقيدة_ظهور_المهدي_عند_أهل_السنة_والجماعة",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/عقيدة_ظهور_المهدي_عند_أهل_السنة_والجماعة.pdf",
+            "file_name": "عقيدة_ظهور_المهدي_عند_أهل_السنة_والجماعة.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 47,
+            "title": "القول_الجلي_فيما_اشتبه_في_قضية_الإمام_المهدي",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/القول_الجلي_فيما_اشتبه_في_قضية_الإمام_المهدي.pdf",
+            "file_name": "القول_الجلي_فيما_اشتبه_في_قضية_الإمام_المهدي.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 48,
+            "title": "الأمة_المسلمة_وأدوارها_السياسة_في_ضوء_حديث_حذيفة_رضي_الله_عنه_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الأمة_المسلمة_وأدوارها_السياسة_في_ضوء_حديث_حذيفة_رضي_الله_عنه_1.pdf",
+            "file_name": "الأمة_المسلمة_وأدوارها_السياسة_في_ضوء_حديث_حذيفة_رضي_الله_عنه_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 49,
+            "title": "التعميم التربوي-1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/التعميم%20التربوي-1.pdf",
+            "file_name": "التعميم التربوي-1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 50,
+            "title": "احتلال_القدس_وربطها_مع_ظهور_المهدی_2",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/احتلال_القدس_وربطها_مع_ظهور_المهدی_2.pdf",
+            "file_name": "احتلال_القدس_وربطها_مع_ظهور_المهدی_2.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 51,
+            "title": "الحصن المنيع1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الحصن%20المنيع1.pdf",
+            "file_name": "الحصن المنيع1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 52,
+            "title": "احداث_الساعۃ_وافتراقھا_فی_ازمنۃ_مختلفۃ_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/احداث_الساعۃ_وافتراقھا_فی_ازمنۃ_مختلفۃ_1.pdf",
+            "file_name": "احداث_الساعۃ_وافتراقھا_فی_ازمنۃ_مختلفۃ_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 53,
+            "title": "اكتشاف قوم ياجوج و ماجوج-1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/اكتشاف%20قوم%20ياجوج%20و%20ماجوج-1.pdf",
+            "file_name": "اكتشاف قوم ياجوج و ماجوج-1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 54,
+            "title": "الحضارة_الحديثة_وظهور_المهدي_الموعود_في_هذه_الأيام_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الحضارة_الحديثة_وظهور_المهدي_الموعود_في_هذه_الأيام_1.pdf",
+            "file_name": "الحضارة_الحديثة_وظهور_المهدي_الموعود_في_هذه_الأيام_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 55,
+            "title": "شبهات حول المهدي",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/شبهات%20حول%20المهدي.pdf",
+            "file_name": "شبهات حول المهدي.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 56,
+            "title": "التحقيق_المبـروم_في_شرح_حديث_ستصالحون_الروم",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/التحقيق_المبـروم_في_شرح_حديث_ستصالحون_الروم.pdf",
+            "file_name": "التحقيق_المبـروم_في_شرح_حديث_ستصالحون_الروم.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 57,
+            "title": "احتلال_القدس_وربطها_مع_ظهور_المهدی_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/احتلال_القدس_وربطها_مع_ظهور_المهدی_1.pdf",
+            "file_name": "احتلال_القدس_وربطها_مع_ظهور_المهدی_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 58,
+            "title": "توقعات_زمن_العلامات_الكبرى_للساعة",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/توقعات_زمن_العلامات_الكبرى_للساعة.pdf",
+            "file_name": "توقعات_زمن_العلامات_الكبرى_للساعة.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 59,
+            "title": "فبأي جرائم آل سعود تكذبان (1)",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/فبأي%20جرائم%20آل%20سعود%20تكذبان%20(1).pdf",
+            "file_name": "فبأي جرائم آل سعود تكذبان (1).pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 60,
+            "title": "شرح_حديث_الفتـن_للمحدث_الكبير_العلامة_المحقق_خليل_أحمد_السهارنفوري",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/شرح_حديث_الفتـن_للمحدث_الكبير_العلامة_المحقق_خليل_أحمد_السهارنفوري.pdf",
+            "file_name": "شرح_حديث_الفتـن_للمحدث_الكبير_العلامة_المحقق_خليل_أحمد_السهارنفوري.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 61,
+            "title": "احتلال_القدس_وربطها_مع_ظهور_المهدی",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/احتلال_القدس_وربطها_مع_ظهور_المهدی.pdf",
+            "file_name": "احتلال_القدس_وربطها_مع_ظهور_المهدی.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 62,
+            "title": "علامات بين يدي المهدي -",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/علامات%20بين%20يدي%20المهدي%20-%20.pdf",
+            "file_name": "علامات بين يدي المهدي - .pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 63,
+            "title": "المجموعة_الأولى_من_مقالات_أبي_داود_25_مقالة_",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/المجموعة_الأولى_من_مقالات_أبي_داود_25_مقالة_.pdf",
+            "file_name": "المجموعة_الأولى_من_مقالات_أبي_داود_25_مقالة_.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 64,
+            "title": "مجموعة من مقالات أبي داود",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/مجموعة%20من%20مقالات%20أبي%20داود%20.pdf",
+            "file_name": "مجموعة من مقالات أبي داود .pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 65,
+            "title": "الحضارة_الحديثة_وظهور_المهدي_الموعود_في_هذه_الأيام",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الحضارة_الحديثة_وظهور_المهدي_الموعود_في_هذه_الأيام.pdf",
+            "file_name": "الحضارة_الحديثة_وظهور_المهدي_الموعود_في_هذه_الأيام.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 66,
+            "title": "مواقع عامة",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/مواقع%20عامة.pdf",
+            "file_name": "مواقع عامة.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 67,
+            "title": "تفريغ_خطبة_النفير_إلى_الركن_والمقام",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/تفريغ_خطبة_النفير_إلى_الركن_والمقام.pdf",
+            "file_name": "تفريغ_خطبة_النفير_إلى_الركن_والمقام.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 68,
+            "title": "نداء و دعوة من القلب الى القلب",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/نداء%20و%20دعوة%20من%20القلب%20الى%20القلب.pdf",
+            "file_name": "نداء و دعوة من القلب الى القلب.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 69,
+            "title": "المهدي من عترتي",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/المهدي%20من%20عترتي.pdf",
+            "file_name": "المهدي من عترتي.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 70,
+            "title": "نسب_الشريف_الشيخ_محمد_بن_عبدالله_عبده_الحودلي",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/نسب_الشريف_الشيخ_محمد_بن_عبدالله_عبده_الحودلي.pdf",
+            "file_name": "نسب_الشريف_الشيخ_محمد_بن_عبدالله_عبده_الحودلي.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 71,
+            "title": "معمۃ_ظھور_المھدی_قطعيتها_وظنيتها",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/معمۃ_ظھور_المھدی_قطعيتها_وظنيتها.pdf",
+            "file_name": "معمۃ_ظھور_المھدی_قطعيتها_وظنيتها.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 72,
+            "title": "حركة_الإمام_المهدي_للشيخ_أبو_داوُد",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/حركة_الإمام_المهدي_للشيخ_أبو_داوُد.pdf",
+            "file_name": "حركة_الإمام_المهدي_للشيخ_أبو_داوُد.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 73,
+            "title": "أنوار_الهدى_في_مهدي_الورى_عبدالرؤوف_حيدر",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/أنوار_الهدى_في_مهدي_الورى_عبدالرؤوف_حيدر.pdf",
+            "file_name": "أنوار_الهدى_في_مهدي_الورى_عبدالرؤوف_حيدر.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 74,
+            "title": "لا تغلوا في دينكم غير الحق",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/لا%20تغلوا%20في%20دينكم%20غير%20الحق.pdf",
+            "file_name": "لا تغلوا في دينكم غير الحق.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 75,
+            "title": "العمل_على_قضية_المهدي_عليه_السلام_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/العمل_على_قضية_المهدي_عليه_السلام_1.pdf",
+            "file_name": "العمل_على_قضية_المهدي_عليه_السلام_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 76,
+            "title": "آفاق شتى -1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/آفاق%20شتى%20-1.pdf",
+            "file_name": "آفاق شتى -1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 77,
+            "title": "احداث_الساعۃ_وافتراقھا_فی_ازمنۃ_مختلفۃ",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/احداث_الساعۃ_وافتراقھا_فی_ازمنۃ_مختلفۃ.pdf",
+            "file_name": "احداث_الساعۃ_وافتراقھا_فی_ازمنۃ_مختلفۃ.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 78,
+            "title": "بيعته المباركة",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/بيعته%20المباركة.pdf",
+            "file_name": "بيعته المباركة.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 79,
+            "title": "كتاب إحكام الحقيقة الغائبة ورد",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/كتاب%20إحكام%20الحقيقة%20الغائبة%20ورد.pdf",
+            "file_name": "كتاب إحكام الحقيقة الغائبة ورد.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 80,
+            "title": "كتاب الخضر",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/كتاب%20الخضر.pdf",
+            "file_name": "كتاب الخضر.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 81,
+            "title": "الأدلة_القاطعة_على_ان_المهدي_محمد_بن_عبد_الله_موجود_بيننا_1",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/الأدلة_القاطعة_على_ان_المهدي_محمد_بن_عبد_الله_موجود_بيننا_1.pdf",
+            "file_name": "الأدلة_القاطعة_على_ان_المهدي_محمد_بن_عبد_الله_موجود_بيننا_1.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        },
+        {
+            "id": 82,
+            "title": "محمود_حبيب_ملك_الماسون_الدجال",
+            "pdf_url": "https://raw.githubusercontent.com/sherwanymuhammad82-svg/Pdfs/main/محمود_حبيب_ملك_الماسون_الدجال.pdf",
+            "file_name": "محمود_حبيب_ملك_الماسون_الدجال.pdf",
+            "category": "Islamic",
+            "is_downloaded": false
+        }
+    ]
+}
